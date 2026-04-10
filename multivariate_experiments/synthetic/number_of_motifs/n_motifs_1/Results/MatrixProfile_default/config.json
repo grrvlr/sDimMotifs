@@ -1,0 +1,5 @@
+{
+    "wlen": 50,
+    "n_patterns": 1,
+    "distance_name": "MVUnitEuclidean"
+}

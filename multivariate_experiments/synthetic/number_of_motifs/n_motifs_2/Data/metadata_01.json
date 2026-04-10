@@ -1,0 +1,66 @@
+{
+    "occurences_positions": {
+        "0": [
+            [
+                144,
+                194
+            ],
+            [
+                412,
+                462
+            ],
+            [
+                507,
+                557
+            ],
+            [
+                614,
+                664
+            ]
+        ],
+        "1": [
+            [
+                50,
+                100
+            ],
+            [
+                235,
+                285
+            ],
+            [
+                315,
+                365
+            ],
+            [
+                721,
+                771
+            ]
+        ]
+    },
+    "active_dims": {
+        "0": [
+            3,
+            4,
+            1
+        ],
+        "1": [
+            4,
+            2,
+            3
+        ]
+    },
+    "generator_params": {
+        "n_d": 5,
+        "n_actives_dimensions_ratio": 0.7,
+        "motif_length": 50,
+        "motif_amplitude": 4,
+        "motif_fundamental": 4,
+        "sparsity": 0.8,
+        "sparsity_fluctuation": 0.5,
+        "length_fluctuation": 0,
+        "min_rep": 4,
+        "max_rep": 4,
+        "noise_amplitude": 0.1,
+        "n_motifs": 2
+    }
+}

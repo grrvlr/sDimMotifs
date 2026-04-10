@@ -1,0 +1,46 @@
+{
+    "Data_filename": "armcoda_subject15_movement3.npy",
+    "Patient_info": {
+        "ID": 15,
+        "Gender": "M",
+        "Age": 25,
+        "Height (cm)": 172.0,
+        "Weight (kg)": 61.0,
+        "BMI (kg/m^2)": 20.6,
+        "Laterality": "R"
+    },
+    "Movement_info": {
+        "movement_ID": 3,
+        "Position": "Seat",
+        "Movement": {
+            "Limb": [
+                "Arm",
+                "Wrist"
+            ],
+            "Laterality": null,
+            "Action": [
+                "Elevation",
+                "Rotation"
+            ]
+        },
+        "Plan": null,
+        "Hand": {
+            "Laterality": null,
+            "Position": null
+        }
+    },
+    "Movement_label": {
+        "Iteration_1": [
+            382,
+            1605
+        ],
+        "Iteration_2": [
+            1713,
+            2915
+        ],
+        "Iteration_3": [
+            3018.0,
+            4261.0
+        ]
+    }
+}

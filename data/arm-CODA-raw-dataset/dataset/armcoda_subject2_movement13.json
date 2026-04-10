@@ -1,0 +1,40 @@
+{
+    "Data_filename": "armcoda_subject2_movement13.npy",
+    "Patient_info": {
+        "ID": 2,
+        "Gender": "M",
+        "Age": 27,
+        "Height (cm)": 188.0,
+        "Weight (kg)": 78.0,
+        "BMI (kg/m^2)": 22.1,
+        "Laterality": "R"
+    },
+    "Movement_info": {
+        "movement_ID": 13,
+        "Position": "Stand",
+        "Movement": {
+            "Limb": "Arm",
+            "Laterality": "Right",
+            "Action": "Elevation"
+        },
+        "Plan": "Scapular",
+        "Hand": {
+            "Laterality": null,
+            "Position": null
+        }
+    },
+    "Movement_label": {
+        "Iteration_1": [
+            131,
+            1428
+        ],
+        "Iteration_2": [
+            1548,
+            2783
+        ],
+        "Iteration_3": [
+            2948.0,
+            NaN
+        ]
+    }
+}

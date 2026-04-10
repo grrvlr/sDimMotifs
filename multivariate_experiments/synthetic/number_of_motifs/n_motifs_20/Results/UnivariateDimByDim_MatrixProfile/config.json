@@ -1,0 +1,8 @@
+{
+    "univariate_method": "MatrixProfile",
+    "method_params": {
+        "wlen": 50,
+        "n_patterns": 20,
+        "distance_name": "UnitEuclidean"
+    }
+}

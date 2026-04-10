@@ -1,0 +1,40 @@
+{
+    "Data_filename": "armcoda_subject13_movement5.npy",
+    "Patient_info": {
+        "ID": 13,
+        "Gender": "F",
+        "Age": 47,
+        "Height (cm)": 170.0,
+        "Weight (kg)": 65.0,
+        "BMI (kg/m^2)": 22.5,
+        "Laterality": NaN
+    },
+    "Movement_info": {
+        "movement_ID": 5,
+        "Position": "Seat",
+        "Movement": {
+            "Limb": null,
+            "Laterality": null,
+            "Action": null
+        },
+        "Plan": null,
+        "Hand": {
+            "Laterality": "Right",
+            "Position": "Head"
+        }
+    },
+    "Movement_label": {
+        "Iteration_1": [
+            235,
+            1688
+        ],
+        "Iteration_2": [
+            1812,
+            2975
+        ],
+        "Iteration_3": [
+            3079.0,
+            NaN
+        ]
+    }
+}
